@@ -1,3 +1,8 @@
+
+
+<a href="https://zenodo.org/badge/latestdoi/540486820"><img src="https://zenodo.org/badge/540486820.svg" alt="DOI"></a>
+
+
 # EDSpie
 ImageJ macro for phase segmentation of SEM-EDS element map stacks
 
